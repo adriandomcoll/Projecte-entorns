@@ -1,0 +1,4396 @@
+{
+  "Version": 7,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "7656119786579303",
+        "GuidsList": [
+          "7656119786579303"
+        ],
+        "Name": "Alain Menu",
+        "Nation": "SUI",
+        "Team": "Williams Renault Dealer Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "7656119219540831",
+        "GuidsList": [
+          "7656119219540831"
+        ],
+        "Name": "Frank Biela",
+        "Nation": "DEU",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 35,
+      "MaxPing": 37
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "7656119126855092",
+        "GuidsList": [
+          "7656119126855092"
+        ],
+        "Name": "Jason Plato",
+        "Nation": "GBR",
+        "Team": "Williams Renault Dealer Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 25,
+      "MaxPing": 30
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "7656119896233790",
+        "GuidsList": [
+          "7656119896233790"
+        ],
+        "Name": "Rickard Rydell",
+        "Nation": "SWE",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_volvo_s40_btcc",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 44,
+      "MaxPing": 48
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "7656119395310485",
+        "GuidsList": [
+          "7656119395310485"
+        ],
+        "Name": "James Thompson",
+        "Nation": "GBR",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 99,
+      "MaxPing": 110
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "7656119362950628",
+        "GuidsList": [
+          "7656119362950628"
+        ],
+        "Name": "Gabriele Tarquini",
+        "Nation": "ITA",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 44,
+      "MaxPing": 68
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 28,
+      "MaxPing": 34
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "7656119249827706",
+        "GuidsList": [
+          "7656119249827706"
+        ],
+        "Name": "David Leslie",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_nissan_primera_btcc",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 355,
+      "MaxPing": 502
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_volvo_s40_btcc",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 44,
+      "MaxPing": 47
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_nissan_primera_btcc",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 11,
+      "MaxPing": 15
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "7656119895285932",
+        "GuidsList": [
+          "7656119895285932"
+        ],
+        "Name": "John Cleland",
+        "Nation": "GBR",
+        "Team": "Vauxhall Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "pm3dm_bmw_320i_stw",
+      "Restrictor": 0,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 33.949722,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.730481,
+        "Y": -0.07538829,
+        "Z": -2.4534276
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -163.67596,
+        "Y": -1.2703501,
+        "Z": 56.81517
+      },
+      "Timestamp": 1778351111,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 9.570482,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8508079,
+        "Y": -0.047921926,
+        "Z": 1.4577936
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -494.95337,
+        "Y": -1.4791485,
+        "Z": -108.07726
+      },
+      "Timestamp": 1778351135,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "7656119126855092",
+        "GuidsList": [
+          "7656119126855092"
+        ],
+        "Name": "Jason Plato",
+        "Nation": "GBR",
+        "Team": "Williams Renault Dealer Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.800847,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8625901,
+        "Y": 0.019250704,
+        "Z": 1.1248113
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -395.40198,
+        "Y": 0.12011762,
+        "Z": 44.748142
+      },
+      "Timestamp": 1778351194,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "7656119362950628",
+        "GuidsList": [
+          "7656119362950628"
+        ],
+        "Name": "Gabriele Tarquini",
+        "Nation": "ITA",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.3452225,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845077,
+        "Y": 0.0270742,
+        "Z": -1.7281884
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -490.33698,
+        "Y": -1.3965571,
+        "Z": -105.032524
+      },
+      "Timestamp": 1778351196,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 10.148282,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845118,
+        "Y": 0.0270744,
+        "Z": -1.7281871
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -123.79749,
+        "Y": -1.5536399,
+        "Z": -231.36218
+      },
+      "Timestamp": 1778351247,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 0.17828983,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845119,
+        "Y": 0.02707446,
+        "Z": -1.728188
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -480.13266,
+        "Y": -1.3069797,
+        "Z": -98.46769
+      },
+      "Timestamp": 1778351260,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "7656119362950628",
+        "GuidsList": [
+          "7656119362950628"
+        ],
+        "Name": "Gabriele Tarquini",
+        "Nation": "ITA",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 5.300615,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.884514,
+        "Y": 0.027074462,
+        "Z": -1.7281828
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -488.73743,
+        "Y": -1.3742526,
+        "Z": -103.993355
+      },
+      "Timestamp": 1778351281,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "7656119219540831",
+        "GuidsList": [
+          "7656119219540831"
+        ],
+        "Name": "Frank Biela",
+        "Nation": "DEU",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 4.2110734,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.87883216,
+        "Y": 0.06083647,
+        "Z": 0.84470993
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 581.7462,
+        "Y": 0.8306787,
+        "Z": -9.195543
+      },
+      "Timestamp": 1778351289,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 10.157094,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8439939,
+        "Y": -0.07430553,
+        "Z": 1.6065011
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -525.766,
+        "Y": -0.12862286,
+        "Z": 80.6498
+      },
+      "Timestamp": 1778351290,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 0.1775463,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.88449794,
+        "Y": 0.013475461,
+        "Z": -1.7775774
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 516.7488,
+        "Y": 0.48908144,
+        "Z": 38.946594
+      },
+      "Timestamp": 1778351296,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "7656119395310485",
+        "GuidsList": [
+          "7656119395310485"
+        ],
+        "Name": "James Thompson",
+        "Nation": "GBR",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 2.6169538,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8555361,
+        "Y": 0.16179384,
+        "Z": 0.7606483
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 256.008,
+        "Y": -0.45403787,
+        "Z": 196.28621
+      },
+      "Timestamp": 1778351313,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "7656119126855092",
+        "GuidsList": [
+          "7656119126855092"
+        ],
+        "Name": "Jason Plato",
+        "Nation": "GBR",
+        "Team": "Williams Renault Dealer Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 55.227146,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.7517408,
+        "Y": -0.08692785,
+        "Z": 1.6279843
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 487.29688,
+        "Y": -0.82501626,
+        "Z": -175.99873
+      },
+      "Timestamp": 1778351329,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "7656119896233790",
+        "GuidsList": [
+          "7656119896233790"
+        ],
+        "Name": "Rickard Rydell",
+        "Nation": "SWE",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.165951,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.85218,
+        "Y": 0.10182065,
+        "Z": -1.6805761
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -494.46716,
+        "Y": -1.3626219,
+        "Z": -107.75378
+      },
+      "Timestamp": 1778351331,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 12.942584,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845099,
+        "Y": 0.027074317,
+        "Z": -1.7281845
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -112.27518,
+        "Y": -1.5410521,
+        "Z": -231.36986
+      },
+      "Timestamp": 1778351332,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "7656119896233790",
+        "GuidsList": [
+          "7656119896233790"
+        ],
+        "Name": "Rickard Rydell",
+        "Nation": "SWE",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 4.3490787,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8521947,
+        "Y": 0.10182118,
+        "Z": -1.6805645
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -103.31959,
+        "Y": -1.4956967,
+        "Z": -231.36469
+      },
+      "Timestamp": 1778351351,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 10.143972,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8788179,
+        "Y": 0.060836382,
+        "Z": 0.8447192
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -111.90414,
+        "Y": -1.4928797,
+        "Z": -231.35898
+      },
+      "Timestamp": 1778351360,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 47.767345,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.81606483,
+        "Y": -0.084826894,
+        "Z": 1.6088824
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -386.9554,
+        "Y": -0.031448424,
+        "Z": 35.08135
+      },
+      "Timestamp": 1778351387,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "7656119219540831",
+        "GuidsList": [
+          "7656119219540831"
+        ],
+        "Name": "Frank Biela",
+        "Nation": "DEU",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 40.2254,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8218635,
+        "Y": -0.08251045,
+        "Z": 1.6456834
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -525.9107,
+        "Y": -0.13031255,
+        "Z": 80.412224
+      },
+      "Timestamp": 1778351404,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 47.239174,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8010106,
+        "Y": -0.3819686,
+        "Z": 1.5770926
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -391.5728,
+        "Y": -0.31866804,
+        "Z": 40.66276
+      },
+      "Timestamp": 1778351420,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 130.48888,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.69994694,
+        "Y": -0.12749211,
+        "Z": 1.9064533
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -518.0101,
+        "Y": 2.354527,
+        "Z": 101.686554
+      },
+      "Timestamp": 1778351425,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 4.846766,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8841549,
+        "Y": 0.017242514,
+        "Z": -1.6179773
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -155.33995,
+        "Y": -0.6858544,
+        "Z": 34.530617
+      },
+      "Timestamp": 1778351431,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 5.628748,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8825769,
+        "Y": 0.03851649,
+        "Z": -0.85620356
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -107.79598,
+        "Y": -1.542747,
+        "Z": -231.36057
+      },
+      "Timestamp": 1778351445,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 64.22494,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.70119315,
+        "Y": -0.10575547,
+        "Z": 1.88903
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 529.3071,
+        "Y": 0.64293957,
+        "Z": 11.061871
+      },
+      "Timestamp": 1778351452,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 17.835072,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.87742025,
+        "Y": 0.06902119,
+        "Z": 0.82577723
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -525.9107,
+        "Y": 0.068635955,
+        "Z": 80.41249
+      },
+      "Timestamp": 1778351496,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 31.848194,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.815779,
+        "Y": -0.085049145,
+        "Z": 1.6029606
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -525.5467,
+        "Y": -0.13099578,
+        "Z": 80.974945
+      },
+      "Timestamp": 1778351507,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "7656119896233790",
+        "GuidsList": [
+          "7656119896233790"
+        ],
+        "Name": "Rickard Rydell",
+        "Nation": "SWE",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 28.081327,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.82744336,
+        "Y": 0.07169104,
+        "Z": -1.7470751
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -494.97174,
+        "Y": -1.407457,
+        "Z": -108.08831
+      },
+      "Timestamp": 1778351526,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 22.198204,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.7910098,
+        "Y": -0.071406566,
+        "Z": 1.6639811
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 600.78296,
+        "Y": 1.463642,
+        "Z": -49.807747
+      },
+      "Timestamp": 1778351546,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 23.110739,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.86376244,
+        "Y": 0.014234515,
+        "Z": 1.0949696
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 122.93476,
+        "Y": -0.6512285,
+        "Z": 217.22849
+      },
+      "Timestamp": 1778351577,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 13.319954,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.88451475,
+        "Y": 0.027074343,
+        "Z": -1.7281857
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -385.48413,
+        "Y": 0.025178192,
+        "Z": 33.095154
+      },
+      "Timestamp": 1778351587,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "7656119219540831",
+        "GuidsList": [
+          "7656119219540831"
+        ],
+        "Name": "Frank Biela",
+        "Nation": "DEU",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.895913,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.88163495,
+        "Y": 0.044144537,
+        "Z": -0.4273109
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -104.06173,
+        "Y": -1.5306387,
+        "Z": -231.35939
+      },
+      "Timestamp": 1778351599,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "7656119362950628",
+        "GuidsList": [
+          "7656119362950628"
+        ],
+        "Name": "Gabriele Tarquini",
+        "Nation": "ITA",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.616246,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.88450736,
+        "Y": 0.027074419,
+        "Z": -1.7282004
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -488.92062,
+        "Y": -1.3746333,
+        "Z": -104.105156
+      },
+      "Timestamp": 1778351631,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 4.4617167,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8840133,
+        "Y": 0.030081062,
+        "Z": -1.4990519
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -149.71663,
+        "Y": 0.030985033,
+        "Z": 9.107498
+      },
+      "Timestamp": 1778351650,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.4537838,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8788163,
+        "Y": 0.060836155,
+        "Z": 0.84471804
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -484.76068,
+        "Y": -1.2808024,
+        "Z": -101.41585
+      },
+      "Timestamp": 1778351705,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.0582476,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.86935794,
+        "Y": 0.024068559,
+        "Z": 1.0519828
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -106.003716,
+        "Y": -1.5314878,
+        "Z": -231.36563
+      },
+      "Timestamp": 1778351712,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 8.945246,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8440057,
+        "Y": -0.052978735,
+        "Z": 1.557976
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -115.0975,
+        "Y": -1.524274,
+        "Z": -231.36557
+      },
+      "Timestamp": 1778351736,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 4.603049,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.87975895,
+        "Y": 0.055293445,
+        "Z": 0.4223108
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 213.95903,
+        "Y": -0.7354976,
+        "Z": 209.21419
+      },
+      "Timestamp": 1778351760,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 39.493927,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8176474,
+        "Y": -0.41885847,
+        "Z": 1.5964742
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -390.39526,
+        "Y": -0.33550307,
+        "Z": 39.301502
+      },
+      "Timestamp": 1778351762,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "7656119890779946",
+        "GuidsList": [
+          "7656119890779946"
+        ],
+        "Name": "Tim Harvey",
+        "Nation": "GBR",
+        "Team": "Esso Ultron Team Peugeot",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.859516,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8788249,
+        "Y": 0.06083647,
+        "Z": 0.8447278
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -499.44806,
+        "Y": -1.4045666,
+        "Z": -111.072
+      },
+      "Timestamp": 1778351777,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "7656119362950628",
+        "GuidsList": [
+          "7656119362950628"
+        ],
+        "Name": "Gabriele Tarquini",
+        "Nation": "ITA",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.683841,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8550198,
+        "Y": -0.016485874,
+        "Z": 1.2813916
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -392.8033,
+        "Y": 0.027931407,
+        "Z": 42.066647
+      },
+      "Timestamp": 1778351781,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "7656119219540831",
+        "GuidsList": [
+          "7656119219540831"
+        ],
+        "Name": "Frank Biela",
+        "Nation": "DEU",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 9.337578,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8788261,
+        "Y": 0.060836464,
+        "Z": 0.8447226
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -110.84089,
+        "Y": -1.4880928,
+        "Z": -231.35971
+      },
+      "Timestamp": 1778351789,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 5.498136,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8788252,
+        "Y": 0.060836457,
+        "Z": 0.84472275
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -487.31845,
+        "Y": -1.3068954,
+        "Z": -103.06232
+      },
+      "Timestamp": 1778351790,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "7656119826600539",
+        "GuidsList": [
+          "7656119826600539"
+        ],
+        "Name": "Anthony Reid",
+        "Nation": "GBR",
+        "Team": "Vodafone Nissan Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.744087,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8486543,
+        "Y": -0.025807839,
+        "Z": 1.3346273
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -392.8033,
+        "Y": 0.017898057,
+        "Z": 42.06663
+      },
+      "Timestamp": 1778351790,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.1444826,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845057,
+        "Y": 0.027074309,
+        "Z": -1.7281858
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -108.36476,
+        "Y": -1.5661182,
+        "Z": -231.36697
+      },
+      "Timestamp": 1778351805,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 0.90765256,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845181,
+        "Y": 0.027074464,
+        "Z": -1.7281871
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -96.82457,
+        "Y": -1.5755094,
+        "Z": -231.35645
+      },
+      "Timestamp": 1778351810,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "7656119210053353",
+        "GuidsList": [
+          "7656119210053353"
+        ],
+        "Name": "Kelvin Burt",
+        "Nation": "GBR",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 16.695345,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.82395965,
+        "Y": -0.42944288,
+        "Z": 1.605012
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 599.9375,
+        "Y": 0.89691365,
+        "Z": -26.677753
+      },
+      "Timestamp": 1778351830,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "7656119339670711",
+        "GuidsList": [
+          "7656119339670711"
+        ],
+        "Name": "John Bintcliffe",
+        "Nation": "GBR",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 1.1412301,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8845237,
+        "Y": 0.0134759,
+        "Z": -1.7775851
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -580.7894,
+        "Y": 0.14169128,
+        "Z": 42.947044
+      },
+      "Timestamp": 1778351881,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "7656119219540831",
+        "GuidsList": [
+          "7656119219540831"
+        ],
+        "Name": "Frank Biela",
+        "Nation": "DEU",
+        "Team": "Audi Sport UK",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 1.0983684,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.88453054,
+        "Y": 0.027074533,
+        "Z": -1.7282056
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 590.1691,
+        "Y": 0.937498,
+        "Z": -16.766783
+      },
+      "Timestamp": 1778351899,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "7656119896233790",
+        "GuidsList": [
+          "7656119896233790"
+        ],
+        "Name": "Rickard Rydell",
+        "Nation": "SWE",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.3068047,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.852199,
+        "Y": 0.10182154,
+        "Z": -1.6805586
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -492.83835,
+        "Y": -1.3461871,
+        "Z": -106.66563
+      },
+      "Timestamp": 1778351902,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "7656119896233790",
+        "GuidsList": [
+          "7656119896233790"
+        ],
+        "Name": "Rickard Rydell",
+        "Nation": "SWE",
+        "Team": "Volvo S40 Racing",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 9.018023,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.85440695,
+        "Y": 0.13670707,
+        "Z": -0.32826024
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 600.93604,
+        "Y": 1.636505,
+        "Z": -49.65459
+      },
+      "Timestamp": 1778351942,
+      "AfterSessionEnd": false,
+      "ReplayURL": ""
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "7656119395310485",
+        "GuidsList": [
+          "7656119395310485"
+        ],
+        "Name": "James Thompson",
+        "Nation": "GBR",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.443984,
+      "OtherCarId": 5,
+      "OtherDriver": {
+        "Guid": "7656119362950628",
+        "GuidsList": [
+          "7656119362950628"
+        ],
+        "Name": "Gabriele Tarquini",
+        "Nation": "ITA",
+        "Team": "Team Honda Sport",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8256716,
+        "Y": -0.07689522,
+        "Z": 0.17271
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -561.22253,
+        "Y": -1.2612115,
+        "Z": -106.20676
+      },
+      "Timestamp": 1778351973,
+      "AfterSessionEnd": true,
+      "ReplayURL": ""
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 106530,
+      "Restrictor": 0,
+      "Sectors": [
+        62682,
+        28795,
+        15053
+      ],
+      "Timestamp": 1778351101,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.9971646,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 107195,
+      "Restrictor": 0,
+      "Sectors": [
+        64211,
+        28494,
+        14490
+      ],
+      "Timestamp": 1778351129,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.9975646,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 101202,
+      "Restrictor": 0,
+      "Sectors": [
+        58564,
+        28296,
+        14342
+      ],
+      "Timestamp": 1778351144,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.9979646,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 102439,
+      "Restrictor": 0,
+      "Sectors": [
+        59927,
+        28229,
+        14283
+      ],
+      "Timestamp": 1778351163,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.9983646,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119126855092",
+      "DriverName": "Jason Plato",
+      "LapTime": 123531,
+      "Restrictor": 0,
+      "Sectors": [
+        79957,
+        29138,
+        14436
+      ],
+      "Timestamp": 1778351178,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.99876463,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 83578,
+      "Restrictor": 0,
+      "Sectors": [
+        40972,
+        28408,
+        14198
+      ],
+      "Timestamp": 1778351185,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.99916464,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119890779946",
+      "DriverName": "Tim Harvey",
+      "LapTime": 142255,
+      "Restrictor": 0,
+      "Sectors": [
+        98934,
+        28867,
+        14454
+      ],
+      "Timestamp": 1778351194,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.99956465,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 174390,
+      "Restrictor": 0,
+      "Sectors": [
+        130658,
+        29183,
+        14549
+      ],
+      "Timestamp": 1778351210,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 0.99996465,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 84067,
+      "Restrictor": 0,
+      "Sectors": [
+        41313,
+        28376,
+        14378
+      ],
+      "Timestamp": 1778351213,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 169898,
+      "Restrictor": 0,
+      "Sectors": [
+        126883,
+        28579,
+        14436
+      ],
+      "Timestamp": 1778351225,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 83132,
+      "Restrictor": 0,
+      "Sectors": [
+        40805,
+        28224,
+        14103
+      ],
+      "Timestamp": 1778351227,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 84160,
+      "Restrictor": 0,
+      "Sectors": [
+        40942,
+        28292,
+        14926
+      ],
+      "Timestamp": 1778351248,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119126855092",
+      "DriverName": "Jason Plato",
+      "LapTime": 85590,
+      "Restrictor": 0,
+      "Sectors": [
+        42201,
+        28827,
+        14562
+      ],
+      "Timestamp": 1778351264,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 83377,
+      "Restrictor": 0,
+      "Sectors": [
+        40947,
+        28120,
+        14310
+      ],
+      "Timestamp": 1778351268,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119890779946",
+      "DriverName": "Tim Harvey",
+      "LapTime": 86275,
+      "Restrictor": 0,
+      "Sectors": [
+        42166,
+        29362,
+        14747
+      ],
+      "Timestamp": 1778351280,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 150711,
+      "Restrictor": 0,
+      "Sectors": [
+        95784,
+        40239,
+        14688
+      ],
+      "Timestamp": 1778351294,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 84605,
+      "Restrictor": 0,
+      "Sectors": [
+        41356,
+        28845,
+        14404
+      ],
+      "Timestamp": 1778351297,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 88532,
+      "Restrictor": 0,
+      "Sectors": [
+        44945,
+        29008,
+        14579
+      ],
+      "Timestamp": 1778351299,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 83802,
+      "Restrictor": 0,
+      "Sectors": [
+        41357,
+        28211,
+        14234
+      ],
+      "Timestamp": 1778351308,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 82757,
+      "Restrictor": 0,
+      "Sectors": [
+        40606,
+        28039,
+        14112
+      ],
+      "Timestamp": 1778351310,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 83147,
+      "Restrictor": 0,
+      "Sectors": [
+        40920,
+        28016,
+        14211
+      ],
+      "Timestamp": 1778351331,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119890779946",
+      "DriverName": "Tim Harvey",
+      "LapTime": 87909,
+      "Restrictor": 0,
+      "Sectors": [
+        42292,
+        30267,
+        15350
+      ],
+      "Timestamp": 1778351368,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 84176,
+      "Restrictor": 0,
+      "Sectors": [
+        41404,
+        28525,
+        14247
+      ],
+      "Timestamp": 1778351379,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 83959,
+      "Restrictor": 0,
+      "Sectors": [
+        41223,
+        28246,
+        14490
+      ],
+      "Timestamp": 1778351381,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 85233,
+      "Restrictor": 0,
+      "Sectors": [
+        41744,
+        29228,
+        14261
+      ],
+      "Timestamp": 1778351384,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 83646,
+      "Restrictor": 0,
+      "Sectors": [
+        41152,
+        28296,
+        14198
+      ],
+      "Timestamp": 1778351392,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 83630,
+      "Restrictor": 0,
+      "Sectors": [
+        40835,
+        28108,
+        14687
+      ],
+      "Timestamp": 1778351393,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 134965,
+      "Restrictor": 0,
+      "Sectors": [
+        90262,
+        28845,
+        15858
+      ],
+      "Timestamp": 1778351403,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 83811,
+      "Restrictor": 0,
+      "Sectors": [
+        41358,
+        28260,
+        14193
+      ],
+      "Timestamp": 1778351414,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 84243,
+      "Restrictor": 0,
+      "Sectors": [
+        41519,
+        28539,
+        14185
+      ],
+      "Timestamp": 1778351463,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 85994,
+      "Restrictor": 0,
+      "Sectors": [
+        41472,
+        30131,
+        14391
+      ],
+      "Timestamp": 1778351470,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 83259,
+      "Restrictor": 0,
+      "Sectors": [
+        40972,
+        28238,
+        14049
+      ],
+      "Timestamp": 1778351475,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 83023,
+      "Restrictor": 0,
+      "Sectors": [
+        40709,
+        28152,
+        14162
+      ],
+      "Timestamp": 1778351476,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 111128,
+      "Restrictor": 0,
+      "Sectors": [
+        68280,
+        28620,
+        14228
+      ],
+      "Timestamp": 1778351492,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 83839,
+      "Restrictor": 0,
+      "Sectors": [
+        40891,
+        28085,
+        14863
+      ],
+      "Timestamp": 1778351498,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 119175,
+      "Restrictor": 0,
+      "Sectors": [
+        76119,
+        28408,
+        14648
+      ],
+      "Timestamp": 1778351522,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 83988,
+      "Restrictor": 0,
+      "Sectors": [
+        41147,
+        28458,
+        14383
+      ],
+      "Timestamp": 1778351547,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 85152,
+      "Restrictor": 0,
+      "Sectors": [
+        41677,
+        28606,
+        14869
+      ],
+      "Timestamp": 1778351555,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119890779946",
+      "DriverName": "Tim Harvey",
+      "LapTime": 203044,
+      "Restrictor": 0,
+      "Sectors": [
+        159183,
+        28637,
+        15224
+      ],
+      "Timestamp": 1778351571,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 84081,
+      "Restrictor": 0,
+      "Sectors": [
+        41349,
+        28367,
+        14365
+      ],
+      "Timestamp": 1778351576,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 102205,
+      "Restrictor": 0,
+      "Sectors": [
+        59828,
+        28323,
+        14054
+      ],
+      "Timestamp": 1778351579,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 83030,
+      "Restrictor": 0,
+      "Sectors": [
+        40807,
+        28013,
+        14210
+      ],
+      "Timestamp": 1778351581,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 112004,
+      "Restrictor": 0,
+      "Sectors": [
+        69453,
+        28340,
+        14211
+      ],
+      "Timestamp": 1778351587,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 83511,
+      "Restrictor": 0,
+      "Sectors": [
+        40841,
+        28558,
+        14112
+      ],
+      "Timestamp": 1778351606,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 83709,
+      "Restrictor": 0,
+      "Sectors": [
+        41121,
+        28331,
+        14257
+      ],
+      "Timestamp": 1778351631,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119890779946",
+      "DriverName": "Tim Harvey",
+      "LapTime": 86599,
+      "Restrictor": 0,
+      "Sectors": [
+        42499,
+        28908,
+        15192
+      ],
+      "Timestamp": 1778351658,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 83785,
+      "Restrictor": 0,
+      "Sectors": [
+        41166,
+        28412,
+        14207
+      ],
+      "Timestamp": 1778351660,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 83666,
+      "Restrictor": 0,
+      "Sectors": [
+        41303,
+        28332,
+        14031
+      ],
+      "Timestamp": 1778351671,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 98075,
+      "Restrictor": 0,
+      "Sectors": [
+        55703,
+        28184,
+        14188
+      ],
+      "Timestamp": 1778351679,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 129582,
+      "Restrictor": 0,
+      "Sectors": [
+        84977,
+        29934,
+        14671
+      ],
+      "Timestamp": 1778351684,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 83438,
+      "Restrictor": 0,
+      "Sectors": [
+        40824,
+        28246,
+        14368
+      ],
+      "Timestamp": 1778351689,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 119480,
+      "Restrictor": 0,
+      "Sectors": [
+        77289,
+        28143,
+        14048
+      ],
+      "Timestamp": 1778351698,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 104705,
+      "Restrictor": 0,
+      "Sectors": [
+        60682,
+        29205,
+        14818
+      ],
+      "Timestamp": 1778351735,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119890779946",
+      "DriverName": "Tim Harvey",
+      "LapTime": 84997,
+      "Restrictor": 0,
+      "Sectors": [
+        42260,
+        28270,
+        14467
+      ],
+      "Timestamp": 1778351743,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 83432,
+      "Restrictor": 0,
+      "Sectors": [
+        40903,
+        28377,
+        14152
+      ],
+      "Timestamp": 1778351754,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 83136,
+      "Restrictor": 0,
+      "Sectors": [
+        41043,
+        27980,
+        14113
+      ],
+      "Timestamp": 1778351763,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 85508,
+      "Restrictor": 0,
+      "Sectors": [
+        41755,
+        29219,
+        14534
+      ],
+      "Timestamp": 1778351770,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 85561,
+      "Restrictor": 0,
+      "Sectors": [
+        42168,
+        28520,
+        14873
+      ],
+      "Timestamp": 1778351775,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 122878,
+      "Restrictor": 0,
+      "Sectors": [
+        72986,
+        35515,
+        14377
+      ],
+      "Timestamp": 1778351783,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 83612,
+      "Restrictor": 0,
+      "Sectors": [
+        41007,
+        28354,
+        14251
+      ],
+      "Timestamp": 1778351819,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119210053353",
+      "DriverName": "Kelvin Burt",
+      "LapTime": 83491,
+      "Restrictor": 0,
+      "Sectors": [
+        40912,
+        28355,
+        14224
+      ],
+      "Timestamp": 1778351838,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 145631,
+      "Restrictor": 0,
+      "Sectors": [
+        103260,
+        28277,
+        14094
+      ],
+      "Timestamp": 1778351844,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 84366,
+      "Restrictor": 0,
+      "Sectors": [
+        41219,
+        28022,
+        15125
+      ],
+      "Timestamp": 1778351847,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 84949,
+      "Restrictor": 0,
+      "Sectors": [
+        41781,
+        28899,
+        14269
+      ],
+      "Timestamp": 1778351855,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119826600539",
+      "DriverName": "Anthony Reid",
+      "LapTime": 83256,
+      "Restrictor": 0,
+      "Sectors": [
+        40960,
+        28143,
+        14153
+      ],
+      "Timestamp": 1778351858,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 84228,
+      "Restrictor": 0,
+      "Sectors": [
+        41162,
+        28607,
+        14459
+      ],
+      "Timestamp": 1778351867,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119219540831",
+      "DriverName": "Frank Biela",
+      "LapTime": 83729,
+      "Restrictor": 0,
+      "Sectors": [
+        41029,
+        28355,
+        14345
+      ],
+      "Timestamp": 1778351903,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119395310485",
+      "DriverName": "James Thompson",
+      "LapTime": 83054,
+      "Restrictor": 0,
+      "Sectors": [
+        40637,
+        28360,
+        14057
+      ],
+      "Timestamp": 1778351927,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119362950628",
+      "DriverName": "Gabriele Tarquini",
+      "LapTime": 82970,
+      "Restrictor": 0,
+      "Sectors": [
+        40779,
+        28021,
+        14170
+      ],
+      "Timestamp": 1778351930,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "Cuts": 0,
+      "DriverGuid": "7656119339670711",
+      "DriverName": "John Bintcliffe",
+      "LapTime": 84358,
+      "Restrictor": 0,
+      "Sectors": [
+        41595,
+        28525,
+        14238
+      ],
+      "Timestamp": 1778351939,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "Cuts": 0,
+      "DriverGuid": "7656119896233790",
+      "DriverName": "Rickard Rydell",
+      "LapTime": 83934,
+      "Restrictor": 0,
+      "Sectors": [
+        41116,
+        28516,
+        14302
+      ],
+      "Timestamp": 1778351951,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 10,
+        "WindDirection": 43,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 82757,
+      "CarId": 4,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "DriverGuid": "76561198341477368",
+      "DriverName": "Max Livingston",
+      "Restrictor": 0,
+      "TotalTime": 945539,
+      "NumLaps": 9,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 82970,
+      "CarId": 5,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "DriverGuid": "76561198168261832",
+      "DriverName": "Boby Vakuinof",
+      "Restrictor": 0,
+      "TotalTime": 948711,
+      "NumLaps": 10,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 83256,
+      "CarId": 10,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "DriverGuid": "76561198027881774",
+      "DriverName": "Yohann Karolczak",
+      "Restrictor": 0,
+      "TotalTime": 876935,
+      "NumLaps": 9,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 11
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 83259,
+      "CarId": 9,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "DriverGuid": "76561198274335493",
+      "DriverName": "Iker Maraver",
+      "Restrictor": 0,
+      "TotalTime": 856624,
+      "NumLaps": 8,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 10
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 83612,
+      "CarId": 1,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "DriverGuid": "76561198448763979",
+      "DriverName": "Juan Gramage",
+      "Restrictor": 0,
+      "TotalTime": 921383,
+      "NumLaps": 8,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 83785,
+      "CarId": 3,
+      "CarModel": "pm3dm_bmw_320i_stw",
+      "DriverGuid": "76561199155667932",
+      "DriverName": "Alex Martinez",
+      "Restrictor": 0,
+      "TotalTime": 970044,
+      "NumLaps": 10,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 84358,
+      "CarId": 6,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "DriverGuid": "76561199141584519",
+      "DriverName": "Filip Vaverka",
+      "Restrictor": 0,
+      "TotalTime": 958138,
+      "NumLaps": 9,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 84997,
+      "CarId": 8,
+      "CarModel": "pm3dm_volvo_s40_btcc",
+      "DriverGuid": "76561198065244263",
+      "DriverName": "Lux Blanford",
+      "Restrictor": 0,
+      "TotalTime": 761198,
+      "NumLaps": 6,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 9
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 85590,
+      "CarId": 2,
+      "CarModel": "pm3dm_nissan_primera_btcc",
+      "DriverGuid": "76561197967855528",
+      "DriverName": "Arno",
+      "Restrictor": 0,
+      "TotalTime": 282321,
+      "NumLaps": 2,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 3
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "",
+  "TrackName": "t21_long_beach_nrms",
+  "Type": "QUALIFY",
+  "Date": "2026-05-09T19:41:00+01:00",
+  "SessionFile": "2026_5_9_19_41_QUALIFY",
+  "SessionConfig": {
+    "session_type": 2,
+    "name": "Qualifying",
+    "time": 15,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 0,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "",
+  "RaceWeekendID": "c18ad7f8-edef-4c55-8521-cc0311e6a945",
+  "EventName": "Race Weekend: BTCC Round 8"
+}

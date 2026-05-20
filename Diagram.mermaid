@@ -1,0 +1,60 @@
+classDiagram
+    class Rounds{
+        RoundID
+        VariantID
+        QualyID
+        RaceID
+        Poster
+
+        setRoundDataFromJson()
+    }
+    class Sectors {
+        SectorID
+        LapID
+        Time
+        Number
+
+        getSectorID()
+        getLapID()
+        getTime()
+        getNumber()
+    }
+    class Laps {
+        LapID
+        SteamID
+        CompetitionID
+        Number
+
+        setFromJson()
+        getters()
+    }
+    class Drivers {
+        SteamID
+        AuthNum
+        Name
+        LastName
+        Dorsal
+        NationalityID
+        TeamID
+        getters()
+    }
+    class Tracks {
+        TrackID
+        Name
+        NationalityID
+        Year
+        getters()
+    }
+    class Competition_Types {
+        CompetitionTypeID
+        Name
+        Description
+        getters()
+    }
+    class Competitions {
+        CompetitionID
+        Laps
+        Time
+        CompetitionTypeID
+        getters()
+    }
